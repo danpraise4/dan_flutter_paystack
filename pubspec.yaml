@@ -9,7 +9,8 @@ dependencies:
   intl: ^0.18.0
   meta: ^1.8.0
   async: ^2.9.0
-  http: ^1.1.0
+
+  http: ^1.2.0
   
 
 dev_dependencies:
